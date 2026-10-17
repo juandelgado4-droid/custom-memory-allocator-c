@@ -1,0 +1,9 @@
+*.o
+*.obj
+*.exe
+*.out
+*.app
+.vscode/
+.idea/
+memalloc_demo
+memalloc_demo.exe
